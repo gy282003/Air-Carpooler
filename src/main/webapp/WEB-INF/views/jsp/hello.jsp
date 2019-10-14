@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Air-carpooler</title>
 </head>
 <body>
-Hello World...111
+    <h1>Welcome to Air-Carpooler</h1>
+    <input type="text" name="username" id="username"/>
+    <input type="password" name="password" id="password"/>
+    <input type="submit" value="Login" id="login"/>
 </body>
 </html>
