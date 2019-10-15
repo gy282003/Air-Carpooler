@@ -8,8 +8,8 @@
 </head>
 <body>
     <h1>Welcome to Air-Carpooler</h1>
-    User Name<input type="text" name="username" id="username"/><br>
-    Password<input type="password" name="password" id="password"/>
+    User Name <input type="text" name="username" id="username"/><br>
+    Password <input type="password" name="password" id="password"/>
     <input type="submit" value="Login" id="login"/>
 </body>
 </html>
