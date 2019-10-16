@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -11,5 +11,6 @@
     User Name <input type="text" name="username" id="username"/><br>
     Password <input type="password" name="password" id="password"/>
     <input type="submit" value="Login" id="login"/>
+    <input type="submit" value="Sign In" id="sign_in"/>
 </body>
 </html>
