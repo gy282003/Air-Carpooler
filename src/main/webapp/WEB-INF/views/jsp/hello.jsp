@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Hi, Welcome to Air-Carpooler</h1>
+    <h2>SEPP Group 1</h2>
     User Name <input type="text" name="username" id="username"/><br>
     Password <input type="password" name="password" id="password"/>
     <input type="submit" value="Login" id="login"/>
