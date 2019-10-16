@@ -5,8 +5,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Air-Carpooler</title>
+<style>
+	.body{
+		text-align: center;
+	}
+</style>
 </head>
-<body>
+<body class="body">
     <h1>Hi, Welcome to Air-Carpooler</h1>
     <h2>SEPP Group 1</h2>
 	<table>
