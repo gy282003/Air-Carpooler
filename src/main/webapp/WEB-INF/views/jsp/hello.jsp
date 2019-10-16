@@ -4,14 +4,25 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Air-carpooler</title>
+<title>Air-Carpooler</title>
 </head>
 <body>
     <h1>Hi, Welcome to Air-Carpooler</h1>
     <h2>SEPP Group 1</h2>
-    User Name <input type="text" name="username" id="username"/><br>
-    Password <input type="password" name="password" id="password"/>
-    <input type="submit" value="Login" id="login"/>
-    <input type="submit" value="Sign In" id="sign_in"/>
+	<table>
+		<tr>
+			<th>User Name</th>
+			<td><input type="text" name="username" id="username"/></td>
+		</tr>
+		<tr>
+			<th>Password</th>
+			<td><input type="password" name="password" id="password"/></td>
+		</tr>
+		<tr>
+			<td><input type="submit" value="Login" id="login"/></td>
+			<td><input type="submit" value="Sign In" id="sign_in"/></td>
+		</tr>
+	</table>
+    <br>    
 </body>
 </html>
