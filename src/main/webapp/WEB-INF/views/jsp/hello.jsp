@@ -9,12 +9,16 @@
 	.body{
 		text-align: center;
 	}
+	
+	.table{
+       margin: auto;
+	}
 </style>
 </head>
 <body class="body">
     <h1>Hi, Welcome to Air-Carpooler</h1>
     <h2>SEPP Group 1</h2>
-	<table>
+	<table class="table">
 		<tr>
 			<th>User Name</th>
 			<td><input type="text" name="username" id="username"/></td>
