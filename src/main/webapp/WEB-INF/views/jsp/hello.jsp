@@ -19,7 +19,7 @@
 </style>
 </head>
 <body class="body">
-    <h1 style="background-color: gray">Hi, Welcome to Air-Carpooler</h1>
+    <h1 style="background-color: gray">Welcome to Air-Carpooler</h1>
     <h2>SEPP Group 1</h2>
 	<table class="table">
 		<tr>
