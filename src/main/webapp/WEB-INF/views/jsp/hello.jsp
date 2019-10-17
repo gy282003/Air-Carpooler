@@ -9,11 +9,10 @@
 	.body{
 		text-align: center;
 		vertical-align: middle;
-		margin: auto;
 	}
 	
 	.table{
-       
+       margin: auto;
 	}
 </style>
 </head>
@@ -21,7 +20,7 @@
 	<div class="body">
 		<h1>Hi, Welcome to Air-Carpooler</h1>
 		<h2>SEPP Group 1</h2>
-		<table>
+		<table class="table">
 			<tr>
 				<th>User Name</th>
 				<td><input type="text" name="username" id="username"/></td>
