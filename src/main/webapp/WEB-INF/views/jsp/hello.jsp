@@ -6,22 +6,24 @@
 <meta charset="UTF-8">
 <title>Air-Carpooler</title>
 <style>
-	.body{
-		text-align: center;
-		vertical-align: middle;
-	}
 	
-	.table{
-       margin: auto;
-	}
+	
+	body{
+        text-align: center;
+       margin:0 auto;
+
+    }
+    .divForm{
+        display: inline-block;
+    }
 	
 	
 </style>
 </head>
-<body class="body">
-    <h1 style="background-color: gray">Hi, Welcome to Air-Carpooler</h1>
+<body>
+    <h1>Hi, Welcome to Air-Carpooler</h1>
     <h2>SEPP Group 1</h2>
-	<table class="table">
+	<table class="divForm">
 		<tr>
 			<th>User Name</th>
 			<td><input type="text" name="username" id="username"/></td>
