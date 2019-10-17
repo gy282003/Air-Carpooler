@@ -8,6 +8,7 @@
 <style>
 	.body{
 		text-align: center;
+		vertical-align: middle;
 	}
 	
 	.table{
@@ -27,6 +28,7 @@
 			<th>Password</th>
 			<td><input type="password" name="password" id="password"/></td>
 		</tr>
+		<tr></tr>
 		<tr>
 			<td><input type="submit" value="Login" id="login"/></td>
 			<td><input type="submit" value="Sign In" id="sign_in"/></td>
