@@ -9,12 +9,19 @@
 	
 	
 	body{
-        text-align: center;
-       margin:0 auto;
+        width: 100%;
+		height: 100%;
+		margin: 0;
+		padding: 0;
 
     }
     .divForm{
-        display: inline-block;
+        width: 300px;
+		height: 300px;		
+		margin: 0 auto;
+		position: relative;
+		top: 50%;
+		margin-top: -150px; 
     }
 	
 	
